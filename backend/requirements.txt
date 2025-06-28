@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-transformers
-torch
-librosa
-numpy
-python-multipart
-
